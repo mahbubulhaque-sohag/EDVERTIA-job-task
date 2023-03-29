@@ -39,10 +39,11 @@
 
   .banner{
     display: flex;
+    justify-content: center;
+    align-items: center;
     gap: 10%;
     padding: 20px;
     margin-top: 50px;
-    border: 2px solid red;
   }
 
   .banner-text{
