@@ -66,3 +66,14 @@
     border-radius: 5px;
     font-weight: bold;
   }
+
+  .footer{
+    margin: 20px 0;
+    padding: 10px 130px;
+    background-color:darkgrey;
+    justify-content: space-between;
+  }
+
+
+
+  
